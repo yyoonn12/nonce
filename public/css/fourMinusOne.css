@@ -1,0 +1,53 @@
+.tab3 {
+	background: #a0a0a0;
+	box-shadow: inset -6px 7px 4px rgba(115, 115, 115, 1.0);
+
+}
+
+.con {
+	max-width: 1600px;
+	display: flex;
+	flex-direction: row;
+	gap: 32px;
+	margin: 80px auto;
+}
+
+.team {
+	width: 60%;
+}
+
+.member {
+	width: 40%;
+}
+
+.btn {
+	width: 100px;
+	margin-bottom: 24px;
+}
+
+.content {
+	margin-bottom: 48px;
+}
+
+.content h1 {
+	font-family: 'AppleMyungjo';
+	word-spacing: -2px;
+	font-size: 18px;
+	color: #151ee3;
+	text-decoration: underline;
+	text-underline-offset: 4px;
+}
+
+.content span {
+	display: block;
+	width: 85%;
+	margin: 16px 0;
+}
+
+.teamImg {
+	width: 70%;
+}
+
+.member span {
+	font-size: 15px;
+}

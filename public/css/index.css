@@ -1,0 +1,51 @@
+.tab1 {
+	background: #a0a0a0;
+	box-shadow: inset -6px 7px 4px rgba(115, 115, 115, 1.0);
+
+}
+
+.homeTitle {
+	font-family: 'AppleMyungjo';
+	max-width: 1600px;
+	margin: 60px auto 80px auto;
+	font-size: 36px;
+	word-spacing: -2px;
+}
+
+.con {
+	max-width: 1600px;
+	display: flex;
+	flex-direction: row;
+	gap: 48px;
+	flex-wrap: nowrap;
+	margin: 60px auto 100px auto;
+	height: 70vh;
+}
+
+.musicInfo {
+	width: 500px;
+}
+
+
+.musicVideo {
+	width: 100%;
+}
+
+.songInfo {
+	display: block;
+	margin-bottom: 6px;
+}
+
+.con a {
+	display: block;
+	font-family: 'AppleMyungjo' !important;
+	word-spacing: -2px;
+	font-size: 20px;
+	margin-bottom: 6px;
+}
+.con span {
+	font-size: 16px;
+	color: #606060;
+	padding-left: 24px;
+
+}
